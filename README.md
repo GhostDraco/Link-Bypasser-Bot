@@ -50,7 +50,7 @@ You need set all three to work
 
 *BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE*<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bipinkrish/Link-Bypasser-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GhostDraco/Link-Bypasser-Bot)</br>
 
 ---
 
@@ -85,3 +85,4 @@ To see the list of supported sites see [texts.py](https://github.com/bipinkrish/
    <br>
 
    ![](https://i.ibb.co/hHBZM5m/Screenshot-113.png)
+
